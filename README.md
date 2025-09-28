@@ -2,7 +2,7 @@
 
 This is my version of Tic-Tac-Toe built with JavaScript. It uses one class (`TicTacToe`) to handle the game logic. Players take turns, the game checks for a winner or a draw, and there’s a reset button to start over.
 
-Link to project: *(https://tic-tac-toe-liart-tau-76.vercel.app/)*
+[Click here to view](https://tic-tac-toe-liart-tau-76.vercel.app/)  
 
 ![screenshot](/img/tictactoe.png)
 
